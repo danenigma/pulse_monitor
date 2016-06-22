@@ -1,0 +1,3 @@
+<launch>
+	<node name = "pulse_monitor" pkg = "pulse_monitor" type = "pulse_publisher.py"/>	
+</launch>
